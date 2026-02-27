@@ -86,6 +86,7 @@ I'm a **Computer Science** student at **L.J. Institute of Engineering & Technolo
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -105,8 +106,8 @@ I'm a **Computer Science** student at **L.J. Institute of Engineering & Technolo
 
 <div align="center">
 
-<a href="https://github.com/kevaljamnapara/gemini-ai-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevaljamnapara&repo=gemini-ai-chatbot&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" />
+<a href="https://github.com/kevaljamnapara/streamlit-bank-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevaljamnapara&repo=streamlit-bank-management-system&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" />
 </a>
 <a href="https://github.com/kevaljamnapara/disease-prediction-ml">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevaljamnapara&repo=disease-prediction-ml&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" />
@@ -117,16 +118,32 @@ I'm a **Computer Science** student at **L.J. Institute of Engineering & Technolo
 <br/>
 
 <details>
-<summary><b>🤖 AI Chatbot — Gemini API</b> &nbsp;·&nbsp; <code>Python</code> <code>Google Gemini API</code> <code>Flask</code> <code>HTML/CSS/JS</code></summary>
+<summary><b>🏦 Streamlit Bank Management System</b> &nbsp;·&nbsp; <code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>SQLite</code></summary>
 <br/>
 
-A full-stack conversational AI app powered by Google's Gemini 1.5 Pro API.
+A fully-featured digital banking system built with Python & Streamlit.
 
-- **What it does:** Multi-turn chat with conversation memory, markdown rendering, and streaming responses
-- **How it's built:** Flask backend handles API calls and session management; vanilla JS frontend with real-time streaming UI
-- **Key challenge solved:** Maintaining context across turns without exceeding token limits via a rolling message window
+- **Features:** User accounts, loans, overdraft protection, admin panel, and transaction analytics dashboard
+- **What makes it stand out:** End-to-end banking logic — deposits, withdrawals, loan approval flows, and a real-time analytics view built entirely in Python
+- **Tech:** Streamlit for UI, Pandas for data processing, SQLite for persistent storage
 
-🔗 [View Repository](https://github.com/kevaljamnapara/gemini-ai-chatbot) &nbsp;·&nbsp; [Live Demo](#)
+🔗 [View Repository](https://github.com/kevaljamnapara/streamlit-bank-management-system)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🤖 AI Chatbot — Gemini LLM</b> &nbsp;·&nbsp; <code>Python</code> <code>Google Gemini API</code> <code>Streamlit / Flask</code></summary>
+<br/>
+
+A conversational AI app powered by Google's Gemini API.
+
+- **What it does:** Multi-turn chat with context-aware responses using Gemini's LLM
+- **How it's built:** Python backend handles API calls and session management with a clean chat UI
+- **Key challenge solved:** Maintaining conversation context across turns for coherent, relevant replies
+
+🔗 [View Repository](https://github.com/kevaljamnapara/Chatbot-using-LLM-like-Gemini)
 
 </details>
 
@@ -143,22 +160,6 @@ An ML classification system that predicts likely diseases based on patient-repor
 - **Deployment:** Wrapped in a Flask API with a simple web UI for symptom input and prediction display
 
 🔗 [View Repository](https://github.com/kevaljamnapara/disease-prediction-ml)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🌐 Django REST Task Manager</b> &nbsp;·&nbsp; <code>Django</code> <code>Django REST Framework</code> <code>React</code> <code>SQLite</code></summary>
-<br/>
-
-A full-stack task management web app with authentication and full CRUD.
-
-- **Backend:** Django REST Framework with JWT auth, serializers, and a clean API layer
-- **Frontend:** React SPA consuming the REST API with real-time UI updates
-- **Features:** User registration/login, task creation, status tracking, priority filters
-
-🔗 [View Repository](https://github.com/kevaljamnapara/django-task-manager)
 
 </details>
 
