@@ -5,7 +5,7 @@
 # Keval Jamnapara
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+LJIET;ML+Engineer+%7C+Full-Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+LJIET;Python+%26+Full-Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/><br/>
